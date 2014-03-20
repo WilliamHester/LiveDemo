@@ -2,7 +2,7 @@
 /local.properties
 /.idea/workspace.xml
 .DS_Store
-.idea
+/.idea
 .gradle
 /*/local.properties
 /*/out
@@ -13,4 +13,3 @@
 *.ipr
 *~
 *.swp
-
