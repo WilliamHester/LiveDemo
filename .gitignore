@@ -2,3 +2,15 @@
 /local.properties
 /.idea/workspace.xml
 .DS_Store
+.idea
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+
